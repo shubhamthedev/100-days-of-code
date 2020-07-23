@@ -4,6 +4,6 @@
 
 - The main inspiration for me to do this is that I've never completed or gone through the pain of completing freecodecamp's curriculum, even though I have learned those things seprately, I still wanna go through them entirely.
 
-- You can follow my progress on \*\*\*[Twitter](https://twitter.com/shubhamthedev)\*\*\*.
+- You can follow my progress on **_[Twitter](https://twitter.com/shubhamthedev)_**.
 
 ## [R1 Log](./r1.md)
